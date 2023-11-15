@@ -61,4 +61,4 @@ Pogledajte našu stranicu!
 
 Ova stranica će se ažurirati kako projekt napreduje. Povremeno se vratite kako biste vidjeli najnovije promjene i dodatke.
 
-[Naša stranica:](diegojadresko.github.io/hello-world)
+[Naša stranica:](https://diegojadresko.github.io/hello-world/)
