@@ -20,3 +20,12 @@ Ovdje će biti upute vezane za objavu sadržaja repozitorija na webu.
 # Kolaboracija u Github-u
 
 U ovom repozitoriju kolaborira vise korisnika
+
+# Glavni naslov
+
+Ovo će biti budući glavni GitHub pasus za budući projekt. Projekt će se sastojati od više korisnika na način da svaki radi na svom dijelu projekta.
+
+## Upute za korisnike
+
+Dragi korisnici, pažljivo čitajte upute za korisnike kako nebi došlo do potencijalnog crashanja aplikacije!
+
