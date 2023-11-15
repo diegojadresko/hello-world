@@ -59,7 +59,6 @@ Za više informacija o Gitu i GitHubu, posjetite GitHub Docs.
 
 Pogledajte našu stranicu!
 
-Projekt je živ i dostupan za pregled na: [Naša stranica:] (diegojadresko.github.io/hello-world)
-
 Ova stranica će se ažurirati kako projekt napreduje. Povremeno se vratite kako biste vidjeli najnovije promjene i dodatke.
 
+[Naša stranica:](diegojadresko.github.io/hello-world)
